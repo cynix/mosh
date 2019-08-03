@@ -56,13 +56,14 @@ public:
     faint,
     italic,
     underlined,
-    blink,
-    inverse,
-    invisible,
     underline_double,
     underline_curl,
     underline_dotted,
     underline_dashed,
+    blink,
+    inverse,
+    invisible,
+    strikethrough,
     SIZE
   } attribute_type;
 
